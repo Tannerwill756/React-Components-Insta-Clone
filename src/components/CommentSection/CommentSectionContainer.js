@@ -6,7 +6,7 @@ import "./Comment.css";
 
 const CommentSection = props => {
   // Add state for the comments
-
+  const blah = blah * 2;
   return (
     <div>
       {/* map through the comments data and return the Comment component */}
